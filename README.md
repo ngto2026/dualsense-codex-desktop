@@ -20,7 +20,7 @@
 | × / R2 | 鼠标左键 / 右键 |
 | 触控板 | 滑动移动光标，按下左击 |
 | △ | 恢复或启动 Codex，切到最近会话 |
-| □ | Typeless 听写（Windows 菜单键） |
+| □ / 麦克风键 | Typeless 听写（Windows 菜单键） |
 | ○ / Options | Enter / Delete |
 | 十字键 | 键盘方向键 |
 
