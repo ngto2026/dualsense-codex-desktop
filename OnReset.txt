@@ -1,0 +1,6 @@
+# Desktop gyro test
+FNL,UP = "GyroConfigs/Development.txt"
+FNR,UP = "GyroConfigs/Development.txt"
+FNL,DOWN = "GyroConfigs/Gaming.txt"
+FNR,DOWN = "GyroConfigs/Gaming.txt"
+HIDE_MINIMIZED = ON

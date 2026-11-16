@@ -1,0 +1,2 @@
+GYRO_ON = R
+R3 = "GyroAlwaysOn.txt"
